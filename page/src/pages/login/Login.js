@@ -22,6 +22,7 @@ export default function Login() {
                     </div>
                 </div>
             </div>
+            <p>test</p>
         </div>
     );
 }
